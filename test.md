@@ -14,3 +14,5 @@ The General Data Protection Regulation (GDPR) is the primary data protection fra
 ## References
 
 1. Official GDPR Text
+
+
