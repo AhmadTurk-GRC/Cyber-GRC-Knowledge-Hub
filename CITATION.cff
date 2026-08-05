@@ -1,0 +1,10 @@
+cff-version: 1.01
+message: "If you use this methodolgy, please cite it as below."
+authors:
+  - family-names: "Turk"
+    given-names: "Ahmad"
+title: "Cyber GRC Assessment Of Syria Law No.12(2024)"
+version: "1.01"
+doi: "10.5281/zenodo.21809625"
+date-released: 2026-08-05
+url: "https://github.com/AhmadTurk-GRC"
